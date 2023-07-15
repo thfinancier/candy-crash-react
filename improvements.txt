@@ -1,4 +1,0 @@
-1. Score display (styling)
-2. Win logic (high score that should be reached to finish the game)
-3. Lose logic (timer)
-4. Few different in terms of dificulty levels (at least three)
